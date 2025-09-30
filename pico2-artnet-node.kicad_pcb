@@ -447,7 +447,7 @@
 		)
 		(path "/d98b8caf-368f-419d-aa48-0bcda805433f")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.89 -0.63)
@@ -1238,7 +1238,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5bd7b6db-e0ac-4c8d-a1df-5b2ccf083c5c")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -1909,7 +1909,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3f030453-a3d9-470c-8f8b-03bb2284cff0")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -2118,7 +2118,7 @@
 		)
 		(path "/0d4c27fd-3162-4e44-8b5c-7fa70305ee52")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.02 -0.63)
@@ -3043,7 +3043,7 @@
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/abd2e786-bb67-4a7b-92ee-b3b3ebf30389")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.85 -3.41)
@@ -3307,7 +3307,7 @@
 		)
 		(path "/0521b397-aa0a-4763-a2b1-7b7ca88a00f6")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr through_hole dnp)
 		(fp_rect
 			(start -4.19 -1.6655)
@@ -4398,7 +4398,7 @@
 		)
 		(path "/2e1ff113-be9f-4803-811d-83ac4382f82d")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.02 -0.63)
@@ -5373,7 +5373,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2a438448-2281-4280-8c62-1147e92b3df1")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -6676,7 +6676,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/81794e79-501e-4d40-a717-7b8dc2189ce1")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
 			(start 1.33 1.27)
@@ -7818,7 +7818,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/735ec7df-4d1d-45ac-b3a3-9db14ca98449")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -8428,7 +8428,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/57b1c43e-b097-41d4-bb6e-51bf16d3fead")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -9685,7 +9685,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/0efd49ba-4024-47a3-96ae-de950269ed0e")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files allow_soldermask_bridges)
 		(fp_rect
@@ -12375,7 +12375,7 @@
 		)
 		(path "/440fa6f9-0e66-4ccc-b88a-724b294e7936")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
 			(start 10.5 -40.5)
@@ -14005,7 +14005,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9c265ce2-65ef-418b-8200-b3f7040fceb5")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -15188,7 +15188,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/1723c909-2c21-441a-87dd-68088e9a48f5")
 		(sheetname "/")
-		(sheetfile "wiznet-pico-node.kicad_sch")
+		(sheetfile "pico2-artnet-node.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.38 -2.23)

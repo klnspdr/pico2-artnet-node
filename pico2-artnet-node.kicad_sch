@@ -4741,7 +4741,7 @@
 			(uuid "f08aa61a-77fe-4509-b7e5-a62e1e921f38")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "D10")
 					(unit 1)
@@ -4969,7 +4969,7 @@
 			(uuid "dc64a8c6-6157-4d7e-a045-8b0ad765c264")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR010")
 					(unit 1)
@@ -5035,7 +5035,7 @@
 			(uuid "af64ff4d-ae1c-4bc8-a17f-0104c6de6812")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR02")
 					(unit 1)
@@ -5175,7 +5175,7 @@
 			(uuid "caa91641-255e-48e3-9a4c-d2940e811780")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR061")
 					(unit 1)
@@ -5330,7 +5330,7 @@
 			(uuid "9ad83e07-7597-494b-8b55-e3f1a97a1465")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "C2")
 					(unit 1)
@@ -5950,7 +5950,7 @@
 			(uuid "7f699010-ffdd-413d-b312-2e4616f71b6c")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "C4")
 					(unit 1)
@@ -6016,7 +6016,7 @@
 			(uuid "f57a754a-4698-4b17-a4ce-242ff80a7a26")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR014")
 					(unit 1)
@@ -6293,7 +6293,7 @@
 			(uuid "559121dc-981f-42a8-a8cf-fd6ff300aa6b")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR08")
 					(unit 1)
@@ -6360,7 +6360,7 @@
 			(uuid "b10d2012-e69c-4e94-927f-a1074f023d76")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "JP2")
 					(unit 1)
@@ -6426,7 +6426,7 @@
 			(uuid "be2e9fcc-1e50-4446-9f9c-e21e65a8184a")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR09")
 					(unit 1)
@@ -6492,7 +6492,7 @@
 			(uuid "0ec5a753-94c3-460e-aef4-53efef7aa426")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR04")
 					(unit 1)
@@ -6570,7 +6570,7 @@
 			(uuid "6c2ebff8-9fdd-4d91-b821-dc579297bca5")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "C3")
 					(unit 1)
@@ -6636,7 +6636,7 @@
 			(uuid "bc441ccc-32dd-486f-a2a0-363e9bd4c027")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR070")
 					(unit 1)
@@ -6782,7 +6782,7 @@
 			(uuid "543fbf09-7d9b-4e8b-95df-eb0d7ccd1777")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR012")
 					(unit 1)
@@ -6848,7 +6848,7 @@
 			(uuid "1559f9b4-c4e2-4288-a927-21bbaa1f692c")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR060")
 					(unit 1)
@@ -6914,7 +6914,7 @@
 			(uuid "bbd85ebf-053c-4ea7-9b48-f485aa11e4e4")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR01")
 					(unit 1)
@@ -6980,7 +6980,7 @@
 			(uuid "3a2127fe-0a96-4ece-b987-c157dd7544c7")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR07")
 					(unit 1)
@@ -7057,7 +7057,7 @@
 			(uuid "523ed4bd-7126-4199-be9f-1302be2dd9de")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "D11")
 					(unit 1)
@@ -7123,7 +7123,7 @@
 			(uuid "46b5bc10-42cb-4ced-9a8c-f2b1d2761d75")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR06")
 					(unit 1)
@@ -7261,7 +7261,7 @@
 			(uuid "5d3ccb37-9680-4ad3-8ee1-2bd0d9d83653")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR013")
 					(unit 1)
@@ -7401,7 +7401,7 @@
 			(uuid "fcb82c7e-2d10-48a0-a5ae-64cd567a16c7")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR071")
 					(unit 1)
@@ -7467,7 +7467,7 @@
 			(uuid "503a3d4f-a866-4351-99cd-4308911e94e8")
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(reference "#PWR017")
 					(unit 1)
@@ -7570,7 +7570,7 @@
 			)
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(page "5")
 				)
@@ -7672,7 +7672,7 @@
 			)
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(page "2")
 				)
@@ -7774,7 +7774,7 @@
 			)
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(page "4")
 				)
@@ -7876,7 +7876,7 @@
 			)
 		)
 		(instances
-			(project "wiznet-pico-node"
+			(project "pico2-artnet-node"
 				(path "/092c1dfd-946a-417c-8133-580e062171cb"
 					(page "3")
 				)
