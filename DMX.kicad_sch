@@ -2068,7 +2068,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Audio:Jack_XLR_Neutrik_NC3FAAH_Horizontal"
+		(property "Footprint" "Connector_Audio:Jack_XLR_Neutrik_NC3FAAH_Horizontal_Board-Overhang"
 			(at 250.19 76.2 0)
 			(effects
 				(font

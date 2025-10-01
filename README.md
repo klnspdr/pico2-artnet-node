@@ -17,10 +17,10 @@ Missing Components:
 => Overall cost per board (without shipping): ~20€ / ~28€ (without/with PoE)
 
 ## Possible other features / TODOs
-- [ ] LED showing powered state
-- [ ] Pinheader for I2C
-- [ ] Levelshifter for WS2812 etc driving (maybe with separate power input?)
+- [x] LED showing powered state
+- [x] Pinheader for I2C
+- [x] Levelshifter for WS2812 etc driving (maybe with separate power input?)
 - [ ] Test points
-- [ ] Silkscreen
+- [x] Silkscreen
 - [ ] Mounting Holes
 - [ ] JLC Ordering Number / mounting holes for PCBA
