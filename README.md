@@ -15,3 +15,12 @@ Missing Components:
     - 3x 1x4 2.54mm Pinsocket THT Vertical (~0.05$ / piece)
 
 => Overall cost per board (without shipping): ~20€ / ~28€ (without/with PoE)
+
+## Possible other features / TODOs
+- [ ] LED showing powered state
+- [ ] Pinheader for I2C
+- [ ] Levelshifter for WS2812 etc driving (maybe with separate power input?)
+- [ ] Test points
+- [ ] Silkscreen
+- [ ] Mounting Holes
+- [ ] JLC Ordering Number / mounting holes for PCBA
